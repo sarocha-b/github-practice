@@ -1,4 +1,7 @@
-# Leaning Github
-## staps in this project
-1. create a GitHub account
-2.
+# Learning Github
+
+## steps that I've learned in this project
+
+I've created a GitHub account and learned how to create repository.
+Then, I selected the HTTPS option and copied the URL for clone it in my computer.
+I've practiced editing files using Markdown syntax and writing simple code blocks in Python.
